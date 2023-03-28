@@ -163,18 +163,12 @@ body {
   cursor: pointer;
 }
 
-/* .card-border {
-  border: 1px solid #3751FF;
-  color: #3751FF;
-} */
-
 .card-border .card-title {
   color: #3751FF;
 }
 
 .card-title {
-  /* color: #9FA2B4; */
-  font-size: 19px;
+font-size: 19px;
 }
 
 .card-count {
@@ -369,17 +363,13 @@ body {
   color: #9FA2B4;
 }
 
-/* Style for the container */
 .container {
   background-color:#DFE0EB;
   max-width: 100%;
   margin: 0 auto;
   padding: 20px 0;
 }
-/* .container p {
-  margin: 10px 30px;
-} */
-/* Style for the row */
+
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -387,43 +377,39 @@ body {
   margin: 10px;
 }
 
-/* Style for the left column */
+
 .col-md-auto:first-child {
   flex: 0 0 70%;
 }
 
-/* Style for the paragraph */
+
 .col-md-auto p {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 0;
 }
 
-/* Style for the right column */
+
 .col-md-auto:last-child {
   flex: 0 0 25%;
 }
 
-/* Style for the list */
+
 .list-unstyled {
   font-size: 14px;
   list-style: none;
-  /* margin: 10px; */
   padding: 0;
 }
 
-/* Style for the list items */
 .list-unstyled li {
   margin-bottom: 20px;
 }
 
-/* Style for the list item links */
 .list-unstyled li a {
   color: #333;
   text-decoration: none;
 }
 
-/* Style for the list item links on hover */
 .list-unstyled li a:hover {
   color: #007bff;
   text-decoration: none;
